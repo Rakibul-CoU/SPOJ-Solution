@@ -1,0 +1,2 @@
+# SPOJ-Solution
+Happy Coding
